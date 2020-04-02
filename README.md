@@ -60,7 +60,7 @@ git checkout -b add-yourname-filename
 
 ## Make necessary changes and commit those changes
 
-Now write a script on any algorithm or data structure in any language you want, and save it to it's repective directory in a text editor. Now, save the file. You can go through the initial file with name Welcome for help.
+Now write a script on any algorithm or data structure in any language you want, and save it to it's respective directory using a text editor. Now, save the file. You can go through the initial file with name Welcome for help.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
